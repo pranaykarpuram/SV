@@ -1,0 +1,9 @@
+class Dashboard{
+    constructor(){
+        
+    }
+
+    display(){
+
+    }
+}
